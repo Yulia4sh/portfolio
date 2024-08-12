@@ -1,0 +1,1 @@
+{'login': 'yuliia', 'password': '26408', 'games_information': [[1, '0:01:22', '10:40:28', True]], 'personal_data': {'first_name': 'yulia', 'second_name': 'sh', 'age': 19}}
