@@ -1,0 +1,9 @@
+{"field_number": 1, "field_size": [7, 7], "x_initial_positions": [0, 0], "o_initial_position": [3, 5]}
+{"field_number": 2, "field_size": [8, 8], "x_initial_positions": [2, 2], "o_initial_position": [7, 7]}
+{"field_number": 3, "field_size": [9, 9], "x_initial_positions": [6, 1], "o_initial_position": [3, 7]}
+{"field_number": 4, "field_size": [10, 10], "x_initial_positions": [5, 5], "o_initial_position": [2, 9]}
+{"field_number": 5, "field_size": [11, 11], "x_initial_positions": [10, 1], "o_initial_position": [2, 3]}
+{"field_number": 6, "field_size": [12, 12], "x_initial_positions": [5, 2], "o_initial_position": [10, 10]}
+{"field_number": 7, "field_size": [13, 13], "x_initial_positions": [3, 3], "o_initial_position": [6, 7]}
+{"field_number": 8, "field_size": [14, 14], "x_initial_positions": [11, 4], "o_initial_position": [4, 8]}
+{"field_number": 9, "field_size": [15, 15], "x_initial_positions": [1, 1], "o_initial_position": [13, 13]}
